@@ -1,3 +1,4 @@
+#Prisma en Git
 def prism_type(a, b, c) #nombre del método con tres parámetros
   if a != b && b != c && a != c #se le dice a la condición, que si todas son diferentes, manda imprimir "cuboide"
     p "cuboide"
